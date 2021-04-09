@@ -1,0 +1,29 @@
+body{
+    background: radial-gradient(circle, red, green);
+}
+
+header{
+    color: gold;
+}
+
+
+.acknowledgements {
+    color: yellow
+}
+
+p {
+    color: white;
+    margin: 70px;
+    padding: 5px;
+}
+
+
+img {
+    max-width: 580px;
+    height: auto;
+    margin: 30px;
+}
+
+#TBD {
+    color: rgb(21, 187, 21);
+}
